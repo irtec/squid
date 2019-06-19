@@ -1,4 +1,4 @@
-# squid
+# Squid
 Ubuntu/Centos
 <h2>Install Ubuntu</h2>
 <pre>wget https://raw.githubusercontent.com/irtec/squid/master/squid_ubuntu.sh</pre>
