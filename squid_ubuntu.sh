@@ -2,10 +2,6 @@
 # <UDF name="squid_user" Label="Proxy Username" />
 # <UDF name="squid_password" Label="Proxy Password" />
 # Squid Proxy Server
-# Author: admin@hostonnet.com
-# Blog: https://blog.hostonnet.com
-# Edits: Khaled AlHashem
-# Site: https://knaved.com
 
 squid_user=
 squid_password=
